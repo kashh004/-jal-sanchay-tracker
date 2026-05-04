@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber">#FF8F00</color>
+    <color name="amber_light">#FFE0B2</color>
+    <color name="bg_light_blue">#E3F2FD</color>
+    <color name="bg_page">#F0F7FF</color>
+    <color name="black">#000000</color>
+    <color name="blue_bright">#2196F3</color>
+    <color name="blue_dark">#0A3D62</color>
+    <color name="blue_primary">#1565C0</color>
+    <color name="divider">#ECEFF1</color>
+    <color name="error_color">#F44336</color>
+    <color name="green">#00C853</color>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_light">#C8E6C9</color>
+    <color name="info">#2196F3</color>
+    <color name="md_theme_dark_background">#001F24</color>
+    <color name="md_theme_dark_error">#FF8A80</color>
+    <color name="md_theme_dark_error_container">#C5032B</color>
+    <color name="md_theme_dark_inverse_on_surface">#003039</color>
+    <color name="md_theme_dark_inverse_primary">#0D47A1</color>
+    <color name="md_theme_dark_inverse_surface">#E0F8FF</color>
+    <color name="md_theme_dark_on_background">#E0F8FF</color>
+    <color name="md_theme_dark_on_error">#5F0A0A</color>
+    <color name="md_theme_dark_on_error_container">#FFEBEE</color>
+    <color name="md_theme_dark_on_primary">#002D5C</color>
+    <color name="md_theme_dark_on_primary_container">#B8E1FF</color>
+    <color name="md_theme_dark_on_secondary">#00392E</color>
+    <color name="md_theme_dark_on_secondary_container">#A7F3D0</color>
+    <color name="md_theme_dark_on_surface">#E0F8FF</color>
+    <color name="md_theme_dark_on_surface_variant">#BFC7CF</color>
+    <color name="md_theme_dark_on_tertiary">#003B42</color>
+    <color name="md_theme_dark_on_tertiary_container">#A7EEEF</color>
+    <color name="md_theme_dark_outline">#BFC7CF</color>
+    <color name="md_theme_dark_outline_variant">#3F474E</color>
+    <color name="md_theme_dark_primary">#7DD3FC</color>
+    <color name="md_theme_dark_primary_container">#0A4398</color>
+    <color name="md_theme_dark_scrim">#000000</color>
+    <color name="md_theme_dark_secondary">#82D9C5</color>
+    <color name="md_theme_dark_secondary_container">#00695C</color>
+    <color name="md_theme_dark_surface">#001F24</color>
+    <color name="md_theme_dark_surface_variant">#3F474E</color>
+    <color name="md_theme_dark_tertiary">#80DEEA</color>
+    <color name="md_theme_dark_tertiary_container">#00545D</color>
+    <color name="md_theme_light_background">#F8FDFF</color>
+    <color name="md_theme_light_error">#FF5252</color>
+    <color name="md_theme_light_error_container">#FFEBEE</color>
+    <color name="md_theme_light_inverse_on_surface">#E0F8FF</color>
+    <color name="md_theme_light_inverse_primary">#7DD3FC</color>
+    <color name="md_theme_light_inverse_surface">#003039</color>
+    <color name="md_theme_light_on_background">#001F24</color>
+    <color name="md_theme_light_on_error">#FFFFFF</color>
+    <color name="md_theme_light_on_error_container">#5F0A0A</color>
+    <color name="md_theme_light_on_primary">#FFFFFF</color>
+    <color name="md_theme_light_on_primary_container">#001D3B</color>
+    <color name="md_theme_light_on_secondary">#FFFFFF</color>
+    <color name="md_theme_light_on_secondary_container">#00251A</color>
+    <color name="md_theme_light_on_surface">#001F24</color>
+    <color name="md_theme_light_on_surface_variant">#3F474E</color>
+    <color name="md_theme_light_on_tertiary">#FFFFFF</color>
+    <color name="md_theme_light_on_tertiary_container">#00292E</color>
+    <color name="md_theme_light_outline">#3F474E</color>
+    <color name="md_theme_light_outline_variant">#BFC7CF</color>
+    <color name="md_theme_light_primary">#0D47A1</color>
+    <color name="md_theme_light_primary_container">#BBDEFB</color>
+    <color name="md_theme_light_scrim">#000000</color>
+    <color name="md_theme_light_secondary">#00897B</color>
+    <color name="md_theme_light_secondary_container">#A7F3D0</color>
+    <color name="md_theme_light_surface">#F8FDFF</color>
+    <color name="md_theme_light_surface_variant">#DBE4EC</color>
+    <color name="md_theme_light_tertiary">#00ACC1</color>
+    <color name="md_theme_light_tertiary_container">#A7EEEF</color>
+    <color name="nav_selected">#2196F3</color>
+    <color name="nav_unselected">#90A4AE</color>
+    <color name="purple">#7C4DFF</color>
+    <color name="purple_light">#E1BEE7</color>
+    <color name="red">#FF5252</color>
+    <color name="shadow">#1F000000</color>
+    <color name="success">#4CAF50</color>
+    <color name="teal">#00BCD4</color>
+    <color name="text_muted">#5A7A9A</color>
+    <color name="text_primary">#0D1B2A</color>
+    <color name="text_secondary">#1B2E45</color>
+    <color name="warning">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+    <string name="about">About</string>
+    <string name="achievement_unlocked">Achievement Unlocked!</string>
+    <string name="achievements">Achievements</string>
+    <string name="app_name">JalSanchay</string>
+    <string name="app_settings">App Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="co2_saved">CO₂ Saved</string>
+    <string name="confirm_delete">Are you sure you want to delete this entry?</string>
+    <string name="conservation_champion">Conservation Champion</string>
+    <string name="daily_usage">Daily Usage (L/day)</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="delete">Delete</string>
+    <string name="entry_history">Entry History</string>
+    <string name="environmental_impact">Environmental Impact</string>
+    <string name="error_empty_field">This field cannot be empty</string>
+    <string name="error_invalid_input">Please enter valid values</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="export_csv">Export as CSV</string>
+    <string name="export_data">Export Data</string>
+    <string name="export_pdf">Export as PDF</string>
+    <string name="first_step">First Step</string>
+    <string name="get_started">Get Started</string>
+    <string name="household_profile">Household Profile</string>
+    <string name="impact_score">Impact Score</string>
+    <string name="liters">Liters</string>
+    <string name="log_entry">Log Entry</string>
+    <string name="monthly_report">Monthly Report</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_log">Log</string>
+    <string name="nav_report">Report</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_tips">Tips</string>
+    <string name="next_button">Next</string>
+    <string name="no_entries">No rainfall entries yet. Start logging!</string>
+    <string name="notifications">Notifications</string>
+    <string name="ok">OK</string>
+    <string name="onboarding_step1_desc">JalSanchay (Water Conservation) helps you track rainwater harvesting, calculate water savings, and measure your environmental impact!</string>
+    <string name="onboarding_step1_title">What is JalSanchay?</string>
+    <string name="onboarding_step2_title">Setup Your Household</string>
+    <string name="onboarding_step3_title">Final Settings</string>
+    <string name="onboarding_welcome">Welcome to JalSanchay</string>
+    <string name="quick_log">Quick Log</string>
+    <string name="rainfall_mm">Rainfall (mm)</string>
+    <string name="roof_area">Roof Area (m²)</string>
+    <string name="runoff_coefficient">Runoff Coefficient</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="share">Share</string>
+    <string name="skip_button">Skip</string>
+    <string name="splash_subtitle">Rainwater Harvesting Tracker</string>
+    <string name="success_exported">Data exported successfully</string>
+    <string name="success_saved">Changes saved successfully</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_log">Log</string>
+    <string name="tab_report">Report</string>
+    <string name="tab_settings">Settings</string>
+    <string name="tab_tips">Tips</string>
+    <string name="tank_capacity">Tank Capacity (L)</string>
+    <string name="total_saved">Total Saved</string>
+    <string name="trees_saved">Trees Equivalent</string>
+    <string name="version">Version 2.0</string>
+    <string name="water_warrior">Water Warrior</string>
+    <string name="water_wealth_today">Water Wealth Today</string>
+    <style name="Animation.App" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:activityOpenExitAnimation">@android:anim/fade_out</item>
+        <item name="android:activityCloseEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:activityCloseExitAnimation">@android:anim/slide_out_right</item>
+    </style>
+    <style name="Theme.JalSanchay" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_on_primary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_on_primary_container</item>
+
+        
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_light_on_secondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_light_secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_light_on_secondary_container</item>
+
+        
+        <item name="colorTertiary">@color/md_theme_light_tertiary</item>
+        <item name="colorOnTertiary">@color/md_theme_light_on_tertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_light_tertiary_container</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_light_on_tertiary_container</item>
+
+        
+        <item name="colorError">@color/md_theme_light_error</item>
+        <item name="colorOnError">@color/md_theme_light_on_error</item>
+        <item name="colorErrorContainer">@color/md_theme_light_error_container</item>
+        <item name="colorOnErrorContainer">@color/md_theme_light_on_error_container</item>
+
+        
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="colorOnBackground">@color/md_theme_light_on_background</item>
+
+        
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+        <item name="colorOnSurface">@color/md_theme_light_on_surface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_light_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_light_on_surface_variant</item>
+
+        
+        <item name="android:statusBarColor">@color/md_theme_light_primary</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        
+        <item name="android:windowAnimationStyle">@style/Animation.App</item>
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+
+        
+        <item name="materialButtonStyle">@style/Widget.App.Button</item>
+        <item name="textInputStyle">@style/Widget.App.TextInputLayout</item>
+        <item name="chipStyle">@style/Widget.App.Chip</item>
+    </style>
+    <style name="Widget.App.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">8dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:paddingRight">24dp</item>
+    </style>
+    <style name="Widget.App.Chip" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipCornerRadius">8dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Widget.App.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:textColorHint">@color/text_muted</item>
+        <item name="boxCornerRadiusTopStart">8dp</item>
+        <item name="boxCornerRadiusTopEnd">8dp</item>
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+        <item name="boxStrokeColor">@color/md_theme_light_outline</item>
+    </style>
+</resources>

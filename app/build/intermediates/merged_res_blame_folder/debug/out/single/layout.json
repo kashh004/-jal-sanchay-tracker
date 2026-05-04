@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/fragment_onboarding_step1.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_onboarding_step1.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/layout_empty_state.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/layout_empty_state.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/activity_login.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/activity_onboarding.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/activity_splash.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/fragment_onboarding_step3.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_onboarding_step3.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/fragment_onboarding_step2.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_onboarding_step2.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/fragment_dashboard.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/layout_dashboard_stat_card.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/layout_dashboard_stat_card.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/fragment_settings.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/fragment_report.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/activity_main.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/fragment_tips.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_tips.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/fragment_log.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_log.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-mergeDebugResources-63:/layout/item_history.xml",
+        "source": "com.jalsanchay.app-main-66:/layout/item_history.xml"
+    }
+]

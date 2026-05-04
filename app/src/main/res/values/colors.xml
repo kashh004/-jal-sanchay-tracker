@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Blue & Teal Gradient -->
+    <color name="md_theme_light_primary">#0D47A1</color>
+    <color name="md_theme_light_on_primary">#FFFFFF</color>
+    <color name="md_theme_light_primary_container">#BBDEFB</color>
+    <color name="md_theme_light_on_primary_container">#001D3B</color>
+    <color name="md_theme_light_secondary">#00897B</color>
+    <color name="md_theme_light_on_secondary">#FFFFFF</color>
+    <color name="md_theme_light_secondary_container">#A7F3D0</color>
+    <color name="md_theme_light_on_secondary_container">#00251A</color>
+    <color name="md_theme_light_tertiary">#00ACC1</color>
+    <color name="md_theme_light_on_tertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiary_container">#A7EEEF</color>
+    <color name="md_theme_light_on_tertiary_container">#00292E</color>
+    <color name="md_theme_light_error">#FF5252</color>
+    <color name="md_theme_light_on_error">#FFFFFF</color>
+    <color name="md_theme_light_error_container">#FFEBEE</color>
+    <color name="md_theme_light_on_error_container">#5F0A0A</color>
+    <color name="md_theme_light_background">#F8FDFF</color>
+    <color name="md_theme_light_on_background">#001F24</color>
+    <color name="md_theme_light_surface">#F8FDFF</color>
+    <color name="md_theme_light_on_surface">#001F24</color>
+    <color name="md_theme_light_surface_variant">#DBE4EC</color>
+    <color name="md_theme_light_on_surface_variant">#3F474E</color>
+    <color name="md_theme_light_outline">#3F474E</color>
+    <color name="md_theme_light_outline_variant">#BFC7CF</color>
+    <color name="md_theme_light_scrim">#000000</color>
+    <color name="md_theme_light_inverse_surface">#003039</color>
+    <color name="md_theme_light_inverse_on_surface">#E0F8FF</color>
+    <color name="md_theme_light_inverse_primary">#7DD3FC</color>
+
+    <!-- Dark Colors -->
+    <color name="md_theme_dark_primary">#7DD3FC</color>
+    <color name="md_theme_dark_on_primary">#002D5C</color>
+    <color name="md_theme_dark_primary_container">#0A4398</color>
+    <color name="md_theme_dark_on_primary_container">#B8E1FF</color>
+    <color name="md_theme_dark_secondary">#82D9C5</color>
+    <color name="md_theme_dark_on_secondary">#00392E</color>
+    <color name="md_theme_dark_secondary_container">#00695C</color>
+    <color name="md_theme_dark_on_secondary_container">#A7F3D0</color>
+    <color name="md_theme_dark_tertiary">#80DEEA</color>
+    <color name="md_theme_dark_on_tertiary">#003B42</color>
+    <color name="md_theme_dark_tertiary_container">#00545D</color>
+    <color name="md_theme_dark_on_tertiary_container">#A7EEEF</color>
+    <color name="md_theme_dark_error">#FF8A80</color>
+    <color name="md_theme_dark_on_error">#5F0A0A</color>
+    <color name="md_theme_dark_error_container">#C5032B</color>
+    <color name="md_theme_dark_on_error_container">#FFEBEE</color>
+    <color name="md_theme_dark_background">#001F24</color>
+    <color name="md_theme_dark_on_background">#E0F8FF</color>
+    <color name="md_theme_dark_surface">#001F24</color>
+    <color name="md_theme_dark_on_surface">#E0F8FF</color>
+    <color name="md_theme_dark_surface_variant">#3F474E</color>
+    <color name="md_theme_dark_on_surface_variant">#BFC7CF</color>
+    <color name="md_theme_dark_outline">#BFC7CF</color>
+    <color name="md_theme_dark_outline_variant">#3F474E</color>
+    <color name="md_theme_dark_scrim">#000000</color>
+    <color name="md_theme_dark_inverse_surface">#E0F8FF</color>
+    <color name="md_theme_dark_inverse_on_surface">#003039</color>
+    <color name="md_theme_dark_inverse_primary">#0D47A1</color>
+
+    <!-- Legacy Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue_dark">#0A3D62</color>
+    <color name="blue_primary">#1565C0</color>
+    <color name="blue_bright">#2196F3</color>
+    <color name="teal">#00BCD4</color>
+    <color name="green">#00C853</color>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_light">#C8E6C9</color>
+    <color name="amber">#FF8F00</color>
+    <color name="amber_light">#FFE0B2</color>
+    <color name="red">#FF5252</color>
+    <color name="purple">#7C4DFF</color>
+    <color name="purple_light">#E1BEE7</color>
+    <color name="text_primary">#0D1B2A</color>
+    <color name="text_secondary">#1B2E45</color>
+    <color name="text_muted">#5A7A9A</color>
+    <color name="bg_page">#F0F7FF</color>
+    <color name="bg_light_blue">#E3F2FD</color>
+    <color name="nav_selected">#2196F3</color>
+    <color name="nav_unselected">#90A4AE</color>
+    <color name="divider">#ECEFF1</color>
+    <color name="shadow">#1F000000</color>
+    
+    <!-- Success, Warning, Info -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="info">#2196F3</color>
+    <color name="error_color">#F44336</color>
+
+    <!-- Glassmorphism Theme Colors -->
+    <!-- Vibrant Dark Water Gradient Background for better contrast -->
+    <color name="bg_gradient_start">#0D47A1</color>
+    <color name="bg_gradient_center">#00838F</color>
+    <color name="bg_gradient_end">#004D40</color>
+    
+    <!-- Glass Overlays (White with opacity) -->
+    <color name="glass_background">#A6FFFFFF</color> <!-- 65% White -->
+    <color name="glass_stroke">#B3FFFFFF</color> <!-- 70% White -->
+    <color name="glass_background_pill">#80FFFFFF</color> <!-- 50% White -->
+    <color name="glass_stroke_pill">#99FFFFFF</color> <!-- 60% White -->
+
+    <!-- Dark Nature Aesthetic UI -->
+    <color name="app_bg_dark">#0F2113</color>
+    <color name="btn_gradient_start">#6BE8C9</color>
+    <color name="btn_gradient_end">#A0EB5A</color>
+    <color name="glass_card_bg">#1A3222</color>
+    <color name="glass_card_stroke">#2E4A35</color>
+    <color name="input_bg">#1E3A28</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="text_gray">#A0B8A8</color>
+</resources>

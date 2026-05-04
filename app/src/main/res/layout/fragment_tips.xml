@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Water Wisdom 🌿"
+            android:textColor="@color/text_white"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="16dp"
+            android:text="Smart tips for better rainwater harvesting"
+            android:textColor="@color/text_white"
+            android:textSize="13sp" 
+        android:textStyle="bold" />
+
+        <!-- TIP 1 -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="24dp"
+            app:cardElevation="0dp"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:background="@drawable/bg_glass_card"
+                android:orientation="horizontal" android:padding="14dp" android:gravity="top">
+                <TextView android:layout_width="38dp" android:layout_height="38dp"
+                    android:background="@drawable/bg_white_rounded" android:gravity="center"
+                    android:text="🪣" android:textSize="20sp" android:layout_marginEnd="12dp"
+        android:textColor="@color/text_white" 
+        android:textStyle="bold" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/tv_smart_tip_title"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="Clean Gutters Monthly"
+                        android:textColor="@color/text_white" android:textSize="14sp" android:textStyle="bold"/>
+                    <TextView
+                        android:id="@+id/tv_smart_tip_desc"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:text="Clogged gutters cut runoff efficiency by up to 40%. Clear before monsoon season for maximum water capture."
+                        android:textColor="@color/text_white" android:textSize="12sp" android:lineSpacingMultiplier="1.4"
+        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- TIP 2 -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="24dp"
+            app:cardElevation="0dp"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:background="@drawable/bg_glass_card"
+                android:orientation="horizontal" android:padding="14dp" android:gravity="top">
+                <TextView android:layout_width="38dp" android:layout_height="38dp"
+                    android:background="@drawable/bg_white_rounded" android:gravity="center"
+                    android:text="🚰" android:textSize="20sp" android:layout_marginEnd="12dp"
+        android:textColor="@color/text_white" 
+        android:textStyle="bold" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:orientation="vertical">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="First-Flush Diverter"
+                        android:textColor="@color/text_white" android:textSize="14sp" android:textStyle="bold"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:text="Discard the first 10–25L which carries roof pollutants. Greatly improves stored water quality."
+                        android:textColor="@color/text_white" android:textSize="12sp" android:lineSpacingMultiplier="1.4"
+        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- TIP 3 -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="24dp"
+            app:cardElevation="0dp"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:background="@drawable/bg_glass_card"
+                android:orientation="horizontal" android:padding="14dp" android:gravity="top">
+                <TextView android:layout_width="38dp" android:layout_height="38dp"
+                    android:background="@drawable/bg_white_rounded" android:gravity="center"
+                    android:text="⛅" android:textSize="20sp" android:layout_marginEnd="12dp"
+        android:textColor="@color/text_white" 
+        android:textStyle="bold" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:orientation="vertical">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="Ideal Tank Positioning"
+                        android:textColor="@color/text_white" android:textSize="14sp" android:textStyle="bold"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:text="Place tank downhill from the roof. Even 2–3m elevation allows gravity-fed distribution without a pump."
+                        android:textColor="@color/text_white" android:textSize="12sp" android:lineSpacingMultiplier="1.4"
+        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- TIP 4 -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="24dp"
+            app:cardElevation="0dp"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:background="@drawable/bg_glass_card"
+                android:orientation="horizontal" android:padding="14dp" android:gravity="top">
+                <TextView android:layout_width="38dp" android:layout_height="38dp"
+                    android:background="@drawable/bg_white_rounded" android:gravity="center"
+                    android:text="📈" android:textSize="20sp" android:layout_marginEnd="12dp"
+        android:textColor="@color/text_white" 
+        android:textStyle="bold" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:orientation="vertical">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="Seasonal Coefficient"
+                        android:textColor="@color/text_white" android:textSize="14sp" android:textStyle="bold"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:text="Summer heat lowers effective runoff (use 0.80). Monsoon tiles can reach 0.90+. Update seasonally for accurate data."
+                        android:textColor="@color/text_white" android:textSize="12sp" android:lineSpacingMultiplier="1.4"
+        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- TIP 5 -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="24dp"
+            app:cardElevation="0dp"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:background="@drawable/bg_glass_card"
+                android:orientation="horizontal" android:padding="14dp" android:gravity="top">
+                <TextView android:layout_width="38dp" android:layout_height="38dp"
+                    android:background="@drawable/bg_white_rounded" android:gravity="center"
+                    android:text="🌱" android:textSize="20sp" android:layout_marginEnd="12dp"
+        android:textColor="@color/text_white" 
+        android:textStyle="bold" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:orientation="vertical">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="Drip Irrigation"
+                        android:textColor="@color/text_white" android:textSize="14sp" android:textStyle="bold"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:text="Connect tank to a drip system — uses 30–50% less water than sprinklers. Every harvested litre does double work."
+                        android:textColor="@color/text_white" android:textSize="12sp" android:lineSpacingMultiplier="1.4"
+        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- TIP 6 -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="24dp"
+            app:cardElevation="0dp"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:background="@drawable/bg_glass_card"
+                android:orientation="horizontal" android:padding="14dp" android:gravity="top">
+                <TextView android:layout_width="38dp" android:layout_height="38dp"
+                    android:background="@drawable/bg_white_rounded" android:gravity="center"
+                    android:text="💧" android:textSize="20sp" android:layout_marginEnd="12dp"
+        android:textColor="@color/text_white" 
+        android:textStyle="bold" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_weight="1" android:orientation="vertical">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="Understanding Catchment"
+                        android:textColor="@color/text_white" android:textSize="14sp" android:textStyle="bold"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:text="Catchment = Roof Area × Runoff Coefficient. A 100m² roof at 0.85 catches 85 litres per mm of rain!"
+                        android:textColor="@color/text_white" android:textSize="12sp" android:lineSpacingMultiplier="1.4"
+        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

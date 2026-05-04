@@ -1,0 +1,67 @@
+com.jalsanchay.app-recyclerview-1.1.0-0 /Users/akashngowda/.gradle/caches/transforms-4/0210837e2d5525e65e7f96c55e638035/transformed/recyclerview-1.1.0/res
+com.jalsanchay.app-navigation-ui-ktx-2.7.6-1 /Users/akashngowda/.gradle/caches/transforms-4/047f74a01bb252a53ed29b579a81249a/transformed/navigation-ui-ktx-2.7.6/res
+com.jalsanchay.app-lifecycle-livedata-core-ktx-2.7.0-2 /Users/akashngowda/.gradle/caches/transforms-4/048d223539a9770d8338d923fe83f2bf/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.jalsanchay.app-navigation-common-2.7.6-3 /Users/akashngowda/.gradle/caches/transforms-4/0a65b02f88bc7d350bbc008eb6908c99/transformed/navigation-common-2.7.6/res
+com.jalsanchay.app-lifecycle-livedata-ktx-2.7.0-4 /Users/akashngowda/.gradle/caches/transforms-4/191239aa32eb130d6b0b15429747ec6a/transformed/lifecycle-livedata-ktx-2.7.0/res
+com.jalsanchay.app-lifecycle-viewmodel-2.7.0-5 /Users/akashngowda/.gradle/caches/transforms-4/1a341d60122c95bdc19016896a59108e/transformed/lifecycle-viewmodel-2.7.0/res
+com.jalsanchay.app-constraintlayout-2.1.4-6 /Users/akashngowda/.gradle/caches/transforms-4/275dd5845dc27032e8d0569ba9c53f2e/transformed/constraintlayout-2.1.4/res
+com.jalsanchay.app-startup-runtime-1.1.1-7 /Users/akashngowda/.gradle/caches/transforms-4/2b8c6228701047c6c19d60d657c27e4c/transformed/startup-runtime-1.1.1/res
+com.jalsanchay.app-slidingpanelayout-1.2.0-8 /Users/akashngowda/.gradle/caches/transforms-4/2fad93c6d4d7ddd33df0b18d0f5cfb26/transformed/slidingpanelayout-1.2.0/res
+com.jalsanchay.app-sqlite-2.4.0-9 /Users/akashngowda/.gradle/caches/transforms-4/335abfa4f843b4853181bd6581344128/transformed/sqlite-2.4.0/res
+com.jalsanchay.app-viewpager2-1.0.0-10 /Users/akashngowda/.gradle/caches/transforms-4/36e76dd559b8fd4d441468ef0d33c559/transformed/viewpager2-1.0.0/res
+com.jalsanchay.app-work-runtime-ktx-2.8.1-11 /Users/akashngowda/.gradle/caches/transforms-4/37b73ca3fa41c1df83806af84defdb7b/transformed/work-runtime-ktx-2.8.1/res
+com.jalsanchay.app-lifecycle-livedata-core-2.7.0-12 /Users/akashngowda/.gradle/caches/transforms-4/38254e2f502f72382aed632f051edbcb/transformed/lifecycle-livedata-core-2.7.0/res
+com.jalsanchay.app-annotation-experimental-1.3.0-13 /Users/akashngowda/.gradle/caches/transforms-4/39e0c80710c7b3bdb7feece789369093/transformed/annotation-experimental-1.3.0/res
+com.jalsanchay.app-fragment-1.6.2-14 /Users/akashngowda/.gradle/caches/transforms-4/3afa856d5846320b8a441191bd7b95ec/transformed/fragment-1.6.2/res
+com.jalsanchay.app-room-runtime-2.6.1-15 /Users/akashngowda/.gradle/caches/transforms-4/3ef8501981168d8d0eb60bc4e1a4e16f/transformed/room-runtime-2.6.1/res
+com.jalsanchay.app-lottie-6.1.0-16 /Users/akashngowda/.gradle/caches/transforms-4/44995e12d48a1407b75a063665ca9173/transformed/lottie-6.1.0/res
+com.jalsanchay.app-emoji2-1.2.0-17 /Users/akashngowda/.gradle/caches/transforms-4/4d86d87f67e86a405f80f923a35e7608/transformed/emoji2-1.2.0/res
+com.jalsanchay.app-navigation-fragment-2.7.6-18 /Users/akashngowda/.gradle/caches/transforms-4/4f153799c8b07d8ca85faae491f573d8/transformed/navigation-fragment-2.7.6/res
+com.jalsanchay.app-datastore-preferences-1.0.0-19 /Users/akashngowda/.gradle/caches/transforms-4/50dd4700d6cc67e184f262c298b16475/transformed/datastore-preferences-1.0.0/res
+com.jalsanchay.app-flexbox-3.0.0-20 /Users/akashngowda/.gradle/caches/transforms-4/5117ec7fd0e036bac2b4c53e989c1ceb/transformed/flexbox-3.0.0/res
+com.jalsanchay.app-window-1.0.0-21 /Users/akashngowda/.gradle/caches/transforms-4/6214fa1c416ec187d8c61fdc9ee9bdd8/transformed/window-1.0.0/res
+com.jalsanchay.app-preference-ktx-1.2.1-22 /Users/akashngowda/.gradle/caches/transforms-4/624559dd3ee613ab27b1a0e47c1bad85/transformed/preference-ktx-1.2.1/res
+com.jalsanchay.app-core-ktx-1.12.0-23 /Users/akashngowda/.gradle/caches/transforms-4/6c6f99a9a651a0d7c942584671f38e36/transformed/core-ktx-1.12.0/res
+com.jalsanchay.app-lifecycle-viewmodel-savedstate-2.7.0-24 /Users/akashngowda/.gradle/caches/transforms-4/6ec53fa29ceef64dcc70509fd27a4c54/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.jalsanchay.app-security-crypto-1.1.0-alpha06-25 /Users/akashngowda/.gradle/caches/transforms-4/6ee598cca7f6d5b78fcc01f7dddddbfd/transformed/security-crypto-1.1.0-alpha06/res
+com.jalsanchay.app-appcompat-resources-1.6.1-26 /Users/akashngowda/.gradle/caches/transforms-4/6f7a27f7658f4be9c692cb48f829f006/transformed/appcompat-resources-1.6.1/res
+com.jalsanchay.app-navigation-ui-2.7.6-27 /Users/akashngowda/.gradle/caches/transforms-4/7507060782342f4442f1b6dc53ff9b18/transformed/navigation-ui-2.7.6/res
+com.jalsanchay.app-cardview-1.0.0-28 /Users/akashngowda/.gradle/caches/transforms-4/76d6e159a1897e4fd404c672dc8cc8e5/transformed/cardview-1.0.0/res
+com.jalsanchay.app-navigation-runtime-ktx-2.7.6-29 /Users/akashngowda/.gradle/caches/transforms-4/78ac8814276f353c2fbd447f08f955ef/transformed/navigation-runtime-ktx-2.7.6/res
+com.jalsanchay.app-preference-1.2.1-30 /Users/akashngowda/.gradle/caches/transforms-4/799d4229af2c47293becda5766e32e86/transformed/preference-1.2.1/res
+com.jalsanchay.app-lifecycle-process-2.7.0-31 /Users/akashngowda/.gradle/caches/transforms-4/79ca8e0731e1566d0c4adfea1ccb7bca/transformed/lifecycle-process-2.7.0/res
+com.jalsanchay.app-room-ktx-2.6.1-32 /Users/akashngowda/.gradle/caches/transforms-4/830d244f899e6618f1aaf8d53746f0c6/transformed/room-ktx-2.6.1/res
+com.jalsanchay.app-navigation-fragment-ktx-2.7.6-33 /Users/akashngowda/.gradle/caches/transforms-4/90ea836ca1f8a34e266df2c51820ca5c/transformed/navigation-fragment-ktx-2.7.6/res
+com.jalsanchay.app-drawerlayout-1.1.1-34 /Users/akashngowda/.gradle/caches/transforms-4/936fec05ce21ed2f297179a2608243bd/transformed/drawerlayout-1.1.1/res
+com.jalsanchay.app-activity-ktx-1.8.0-35 /Users/akashngowda/.gradle/caches/transforms-4/9546fda5be6ff7bab6776cd35f23a222/transformed/activity-ktx-1.8.0/res
+com.jalsanchay.app-glide-4.16.0-36 /Users/akashngowda/.gradle/caches/transforms-4/986553315307693c1b468a00c2ef65e5/transformed/glide-4.16.0/res
+com.jalsanchay.app-fragment-ktx-1.6.2-37 /Users/akashngowda/.gradle/caches/transforms-4/98b3632de714e6493d9516bebbf89e16/transformed/fragment-ktx-1.6.2/res
+com.jalsanchay.app-coordinatorlayout-1.1.0-38 /Users/akashngowda/.gradle/caches/transforms-4/993a7d9a117f688cf53057a68e722012/transformed/coordinatorlayout-1.1.0/res
+com.jalsanchay.app-savedstate-1.2.1-39 /Users/akashngowda/.gradle/caches/transforms-4/9b228e2eee46266161d4b7507bd1a133/transformed/savedstate-1.2.1/res
+com.jalsanchay.app-transition-1.4.1-40 /Users/akashngowda/.gradle/caches/transforms-4/9b58d3516511a19ada0307c8c81b6fd3/transformed/transition-1.4.1/res
+com.jalsanchay.app-lifecycle-runtime-ktx-2.7.0-41 /Users/akashngowda/.gradle/caches/transforms-4/a17b09863e50bb79d0e021f49e00876d/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.jalsanchay.app-activity-1.8.0-42 /Users/akashngowda/.gradle/caches/transforms-4/a5e171b180b9bf1e2ed5b63f63e44f22/transformed/activity-1.8.0/res
+com.jalsanchay.app-swiperefreshlayout-1.1.0-43 /Users/akashngowda/.gradle/caches/transforms-4/a7a7f18f21def9750f7b6f66e9a91a0a/transformed/swiperefreshlayout-1.1.0/res
+com.jalsanchay.app-lifecycle-runtime-2.7.0-44 /Users/akashngowda/.gradle/caches/transforms-4/aee6d32cd0f597fe9fd5140f1f996e85/transformed/lifecycle-runtime-2.7.0/res
+com.jalsanchay.app-material-1.11.0-45 /Users/akashngowda/.gradle/caches/transforms-4/b4ea85fbe4dca9ef6d4a46074e2c41b1/transformed/material-1.11.0/res
+com.jalsanchay.app-profileinstaller-1.3.0-46 /Users/akashngowda/.gradle/caches/transforms-4/b5d1010e9605eeed62ae87b96fa27143/transformed/profileinstaller-1.3.0/res
+com.jalsanchay.app-savedstate-ktx-1.2.1-47 /Users/akashngowda/.gradle/caches/transforms-4/b9bd953eda35023750d68cf28452b11b/transformed/savedstate-ktx-1.2.1/res
+com.jalsanchay.app-emoji2-views-helper-1.2.0-48 /Users/akashngowda/.gradle/caches/transforms-4/bc2a15fa5dfdf22dfe9fc690eaba805b/transformed/emoji2-views-helper-1.2.0/res
+com.jalsanchay.app-lifecycle-viewmodel-ktx-2.7.0-49 /Users/akashngowda/.gradle/caches/transforms-4/bd645fb53873f0a3dc8b52c676bd6451/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.jalsanchay.app-lifecycle-livedata-2.7.0-50 /Users/akashngowda/.gradle/caches/transforms-4/c47e691cf09b22087183ef5639b28db1/transformed/lifecycle-livedata-2.7.0/res
+com.jalsanchay.app-lifecycle-service-2.7.0-51 /Users/akashngowda/.gradle/caches/transforms-4/c64f385190ef5eae0a4302f99286d8bf/transformed/lifecycle-service-2.7.0/res
+com.jalsanchay.app-datastore-1.0.0-52 /Users/akashngowda/.gradle/caches/transforms-4/c84f80f97fa4c8d3e47d150d77c26a08/transformed/datastore-1.0.0/res
+com.jalsanchay.app-navigation-common-ktx-2.7.6-53 /Users/akashngowda/.gradle/caches/transforms-4/d32c399d97cc24b915a3b975d9b9b3fe/transformed/navigation-common-ktx-2.7.6/res
+com.jalsanchay.app-work-runtime-2.8.1-54 /Users/akashngowda/.gradle/caches/transforms-4/d6685914bc964358d1474f589f16a97b/transformed/work-runtime-2.8.1/res
+com.jalsanchay.app-navigation-runtime-2.7.6-55 /Users/akashngowda/.gradle/caches/transforms-4/d6cf14ef5ae60299b84ec88c80d1556f/transformed/navigation-runtime-2.7.6/res
+com.jalsanchay.app-sqlite-framework-2.4.0-56 /Users/akashngowda/.gradle/caches/transforms-4/ef7d37ce191976ab834085b780ce82d3/transformed/sqlite-framework-2.4.0/res
+com.jalsanchay.app-appcompat-1.6.1-57 /Users/akashngowda/.gradle/caches/transforms-4/efc118ab1563f7de265a95d21ded1e49/transformed/appcompat-1.6.1/res
+com.jalsanchay.app-core-runtime-2.2.0-58 /Users/akashngowda/.gradle/caches/transforms-4/f4fdd063e72c377bc050d0ef54df67af/transformed/core-runtime-2.2.0/res
+com.jalsanchay.app-core-1.12.0-59 /Users/akashngowda/.gradle/caches/transforms-4/fe9aa42b4579d809e9c52ae7bd1fe7a7/transformed/core-1.12.0/res
+com.jalsanchay.app-pngs-60 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/build/generated/res/pngs/debug
+com.jalsanchay.app-resValues-61 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/build/generated/res/resValues/debug
+com.jalsanchay.app-packageDebugResources-62 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.jalsanchay.app-packageDebugResources-63 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.jalsanchay.app-debug-64 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.jalsanchay.app-debug-65 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/src/debug/res
+com.jalsanchay.app-main-66 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/src/main/res

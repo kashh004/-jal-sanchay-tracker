@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_divider_bottom.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_divider_bottom.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_input_field.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_input_field.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_stat_green.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_stat_green.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/anim_fade_in.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_white_rounded.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_white_rounded.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_ic_report.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/ic_report.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/anim_slide_up.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_water_fill.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_water_fill.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_button_gradient.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_button_gradient.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-debug-64:/layout_fragment_onboarding_step2.xml.flat",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_onboarding_step2.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_activity_login.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_fragment_onboarding_step1.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/fragment_onboarding_step1.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_fragment_log.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/fragment_log.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/navigation_nav_graph.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.jalsanchay.app-debug-64:/layout_fragment_log.xml.flat",
+        "source": "com.jalsanchay.app-main-66:/layout/fragment_log.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_activity_splash.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_ic_profile.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_progress_water.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/progress_water.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_button_primary.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_fragment_dashboard.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_stat_purple.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_stat_purple.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_achievement_card.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_achievement_card.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_tab_selector.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_card_rounded.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_card_rounded.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_stat_amber.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_stat_amber.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_layout_dashboard_stat_card.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/layout_dashboard_stat_card.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_main_gradient.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_main_gradient.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_layout_empty_state.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/layout_empty_state.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_item_history.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/item_history.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_activity_onboarding.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_fragment_report.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/anim_scale_in.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/anim/scale_in.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_glass_card.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_glass_card.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_pill_translucent.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_pill_translucent.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_ic_tips.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/ic_tips.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_header_gradient.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_header_gradient.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_gradient_bottom_sheet.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_gradient_bottom_sheet.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_fragment_onboarding_step3.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/fragment_onboarding_step3.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_green_pill.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_green_pill.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_tab_indicator_default.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/tab_indicator_default.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/anim_fade_out.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_dialog_ai_chat.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/dialog_ai_chat.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/color_nav_icon_color.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/color/nav_icon_color.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_ic_log.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/ic_log.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_tank_outer.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_tank_outer.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_fragment_settings.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_tab_indicator_selected.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/tab_indicator_selected.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_fragment_tips.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/fragment_tips.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_stat_blue.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_stat_blue.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_glass_pill.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_glass_pill.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_ic_dashboard.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/xml_file_paths.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_fragment_onboarding_step2.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/fragment_onboarding_step2.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/drawable_bg_badge_blue.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/drawable/bg_badge_blue.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/anim_slide_down.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/layout_activity_main.xml.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-debug-64:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akashngowda/.gradle/daemon/8.7/com.jalsanchay.app-main-66:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

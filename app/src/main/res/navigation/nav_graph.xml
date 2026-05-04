@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.jalsanchay.ui.dashboard.DashboardFragment"
+        android:label="Dashboard">
+        <action
+            android:id="@+id/action_dashboard_to_log"
+            app:destination="@id/logFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/logFragment"
+        android:name="com.jalsanchay.ui.log.LogFragment"
+        android:label="Log" />
+
+    <fragment
+        android:id="@+id/reportFragment"
+        android:name="com.jalsanchay.ui.report.ReportFragment"
+        android:label="Report" />
+
+    <fragment
+        android:id="@+id/tipsFragment"
+        android:name="com.jalsanchay.ui.tips.TipsFragment"
+        android:label="Tips" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.jalsanchay.ui.settings.SettingsFragment"
+        android:label="Settings" />
+</navigation>
