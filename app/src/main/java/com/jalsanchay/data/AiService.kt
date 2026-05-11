@@ -1,5 +1,6 @@
 package com.jalsanchay.data
 
+import com.jalsanchay.BuildConfig
 import com.jalsanchay.data.models.GeminiRequest
 import com.jalsanchay.data.models.GeminiResponse
 import okhttp3.OkHttpClient
@@ -21,8 +22,8 @@ interface GeminiApi {
 object AiService {
     private const val BASE_URL = "https://generativelanguage.googleapis.com/"
     
-    // Store API Key securely (using hardcoded for evaluation per user prompt)
-    const val API_KEY = "AIzaSyBUJZxqBtJDam8UQ1ga8LceXQbhdpvWKks"
+    // Store API Key securely
+    const val API_KEY = BuildConfig.API_KEY
 
     private val client = OkHttpClient.Builder()
         .addInterceptor(HttpLoggingInterceptor().apply {

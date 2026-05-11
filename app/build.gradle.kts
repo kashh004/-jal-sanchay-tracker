@@ -1,14 +1,20 @@
+import java.util.Properties
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
     id("com.google.devtools.ksp")
-    // id("com.google.gms.google-services")
-    // id("com.google.firebase.crashlytics")
 }
 
 android {
     namespace = "com.jalsanchay"
     compileSdk = 34
+
+    val properties = Properties()
+    val localPropertiesFile = project.rootProject.file("local.properties")
+    if (localPropertiesFile.exists()) {
+        properties.load(localPropertiesFile.inputStream())
+    }
 
     defaultConfig {
         applicationId = "com.jalsanchay"
@@ -16,6 +22,8 @@ android {
         targetSdk = 34
         versionCode = 2
         versionName = "2.0"
+
+        buildConfigField("String", "API_KEY", "\"${properties.getProperty("API_KEY") ?: ""}\"")
     }
 
     buildTypes {
@@ -29,7 +37,10 @@ android {
         targetCompatibility = JavaVersion.VERSION_1_8
     }
     kotlinOptions { jvmTarget = "1.8" }
-    buildFeatures { viewBinding = true }
+    buildFeatures { 
+        viewBinding = true 
+        buildConfig = true
+    }
 }
 
 dependencies {
@@ -64,16 +75,6 @@ dependencies {
     
     // Animations & Lottie
     implementation("com.airbnb.android:lottie:6.1.0")
-    
-    // Firebase - Commented out as google-services.json is missing
-    /*
-    implementation("com.google.firebase:firebase-bom:32.7.1")
-    implementation("com.google.firebase:firebase-auth-ktx")
-    implementation("com.google.firebase:firebase-firestore-ktx")
-    implementation("com.google.firebase:firebase-analytics-ktx")
-    implementation("com.google.firebase:firebase-messaging-ktx")
-    implementation("com.google.firebase:firebase-crashlytics-ktx")
-    */
     
     // Retrofit & OkHttp (for Weather API)
     implementation("com.squareup.retrofit2:retrofit:2.10.0")

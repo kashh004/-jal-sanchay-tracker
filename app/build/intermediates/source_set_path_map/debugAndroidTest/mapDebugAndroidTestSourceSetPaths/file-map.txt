@@ -1,0 +1,4 @@
+com.jalsanchay.test.app-androidTest-0 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/build/generated/res/resValues/androidTest/debug
+com.jalsanchay.test.app-mergeDebugAndroidTestResources-1 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.jalsanchay.test.app-mergeDebugAndroidTestResources-2 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.jalsanchay.test.app-debugAndroidTest-3 /Users/akashngowda/Desktop/Mindmatrix/project phase/JalSanchay/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
