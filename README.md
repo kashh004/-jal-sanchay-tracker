@@ -122,6 +122,10 @@ Litres Harvested = Area (m²) × Rainfall (mm) × 0.0929 × Runoff Coefficient
   <img src="screenshots/Roof%20config.jpg" width="22%" />
   <img src="screenshots/Settings.jpg" width="22%" />
 </p>
+<p align="center">
+  <img src="screenshots/Tips.jpg" width="22%" />
+  <img src="screenshots/AI%20window.jpg" width="22%" />
+</p>
 
 1. **Login & Onboarding** — Configure roof area, tank capacity, daily usage.
 2. **Dashboard** — Live tank visual, today's harvest, weekly overview, impact score.
